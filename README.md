@@ -1,5 +1,5 @@
 <h1 align= "center">
-    <img src ="Fots/preço.jpg">
+    <img src ="Fotos/preço.jpg">
 </h1>
 
 # Custo Computacional
@@ -18,7 +18,7 @@ A medida do custo de execução de um algoritmo depende principalmente do tamanh
 A atividade proposta tem como objetivo diminuir o custo computacional do programa abaixo:
 
 <h1 align= "center">
-    <img src ="exemplo.png" width= "400">
+    <img src ="Fotos/exemplo.png" width= "400">
 </h1>
 
 A função de custo é expressa por um polinômio, em relação ao tamanho da entrada. O tempo gasto é demonstrado por:
@@ -33,7 +33,7 @@ Isso daria, no caso, a função de custo MinMax(N) em relação ao tamanho da en
 A partir do problema proposto foi modificado o uso dos dois "*if*", retirando assim o segundo "*if*" e substituindo por um "*else if*". Sendo assim, o custo que era representado por "*f(n)=2(n-1)*" passou a ser por "*f(n)=n-1*" reduzindo assim o custo pela metade.
 
 <h1 align="center">
-    <img src ="procedimento.png">
+    <img src ="Fotos/procedimento.png">
 </h1>
 
 ---
