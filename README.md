@@ -30,7 +30,7 @@ MinMax(N) =
     N*(tempo gasto por um print)
 ````
 Isso daria, no caso, a função de custo MinMax(N) em relação ao tamanho da entrada N. Como visto em sala, calculamos o custo desse algoritmo e identificamos que suas computações gastam *f(n)=2(n-1)* operações para a obtenção de resultados. 
-A partir do problema proposto foi modificado o uso dos dois "*if*", retirando assim o segundo "*if*" e substituindo por um "*else if*". Sendo assim, o custo que era representado por "*f(n)=2(n-1)*" passou a ser por "*f(n)=n-1*" reduzindo assim o custo pela metade.
+A partir do problema proposto foi modificado o uso dos dois "*if*", retirando assim o segundo "*if*" e substituindo por um "*else if*". Sendo assim, o custo que era representado por "*f(n)=2(n-1)*" passou a ser por "*f(n)=n-1*" reduzindo assim o custo pela metade. Na melhor das hipóteses o "*else if*" só será executado caso o "*if*" vem a ser negativo.
 
 <h1 align="center">
     <img src ="Fotos/procedimento.png">
